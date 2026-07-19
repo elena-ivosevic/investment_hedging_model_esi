@@ -11,7 +11,9 @@ protected a hypothetical wealth-management client portfolio through it.
 **[Open the interactive dashboard &rarr;](https://elena-ivosevic.github.io/geopolitical_options_lab/)**
 (once GitHub Pages is enabled &mdash; see *Running the project* below). Or download
 `dashboard/index.html` and open it directly in any browser; no server or build step required.
+## Interactive Dashboard
 
+[Launch the live dashboard](https://elena-ivosevic.github.io/geopolitical_options_lab/)
 ---
 
 ## Selected results
