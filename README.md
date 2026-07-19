@@ -16,8 +16,6 @@ protected a hypothetical wealth-management client portfolio through it.
 
 ## Selected results
 
-![Hedge comparison](hedge_comparison_screenshot.png)
-
 | | |
 |---|---|
 | **USO move around the war's outbreak** | +29%, vs. an oil-vol proxy (OVX) that jumped 36 points |
