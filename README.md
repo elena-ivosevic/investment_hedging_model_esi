@@ -2,10 +2,7 @@
 ### An Option-Implied Geopolitical Risk Dashboard
 
 
-A Black-Scholes-based research project measuring how the 2026 Iran&ndash;Israel&ndash;U.S.
-conflict and Strait of Hormuz disruptions moved oil, airline, consumer, healthcare, and
-broad-market risk &mdash; and testing whether standard option hedges would have actually
-protected a hypothetical wealth-management client portfolio through it.
+A Black-Scholes-based research project measuring how the 2026 Middle Eastern conflict and Strait of Hormuz disruptions moved oil, airline, consumer, healthcare, and broad-market risk &mdash; and testing whether standard option hedges would have actually protected a hypothetical wealth-management client portfolio through it.
 
 **[Launch the live dashboard](https://elena-ivosevic.github.io/geopolitical-options-lab/)**
 ---
